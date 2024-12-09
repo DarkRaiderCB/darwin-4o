@@ -1,0 +1,8 @@
+/.env
+/functions/__pycache__
+/__pycache__
+/data
+/utils/__pycache__
+*.ipynb
+/server_changelog.md
+.aider*
